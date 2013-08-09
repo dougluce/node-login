@@ -5,4 +5,4 @@ layout = require './layout'
 
 module.exports = renderable ->
   layout '', ->
-    div '#four04', "I'm sorry, the page or resource you are searching for is currently unavailable."
+    div '#four04', "The page or resource you are searching for is currently unavailable."
